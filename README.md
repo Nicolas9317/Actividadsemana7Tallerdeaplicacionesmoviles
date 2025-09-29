@@ -39,25 +39,24 @@ El prototipo incluye pantallas de inicio de sesión, catálogo de productos, car
 
 ---
 
-## 🖼️ Capturas del Prototipo
+## Capturas del prototipo
 
-### 1. Login  
-![Login](img/01_login.png)
+### Pantalla Login
+![Login](Prototipo%20semana%207/01login.png)
 
-### 2. Catálogo de Productos  
-![Catálogo](img/02_catalogo.png)
+### Catálogo
+![Catálogo](Prototipo%20semana%207/02catalogo.png)
 
-### 3. Carrito de Compras  
-![Carrito](img/03_carrito.png)
+### Carrito
+![Carrito](Prototipo%20semana%207/03carrito.png)
 
-### 4. Estado del Pedido  
-![Estado del Pedido](img/04_estado_pedido.png)
+### Estado de Pedido
+![Estado Pedido](Prototipo%20semana%207/04estadopedido.png)
 
-### 5. Monitoreo de Temperatura  
-![Temperatura](img/05_temperatura.png)
+### Monitoreo de Temperatura
+![Temperatura](Prototipo%20semana%207/05temperatura.png)
+![Temperatura Alerta](Prototipo%20semana%207/05temperatura_1.png)
 
-### 6. Monitoreo de Temperatura con Alerta  
-![Temperatura Alerta](img/06_temperatura_alerta.png)
 
 ---
 
